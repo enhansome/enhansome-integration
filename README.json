@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 671269505,
                 "language": "Python",
-                "last_commit": "2026-08-20T14:40:20Z",
+                "last_commit": "2026-08-21T13:34:13Z",
                 "owner": "BerriAI",
                 "repo": "litellm",
-                "stars": 56836
+                "stars": 56921
               }
             },
             {
@@ -32,52 +32,52 @@
                 "last_commit": "2026-05-25T13:54:51Z",
                 "owner": "Portkey-AI",
                 "repo": "gateway",
-                "stars": 12776
+                "stars": 12787
               }
             },
             {
               "node_type": "item",
-              "title": "Bifrost (⭐7.2k)",
+              "title": "Bifrost (⭐7.4k)",
               "description": "A high-performance AI gateway written in Go that unifies more than 20 model providers behind a single OpenAI-compatible API, with failover, load balancing, semantic caching, and governance.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 951115072,
                 "language": "Go",
-                "last_commit": "2026-08-20T14:45:47Z",
+                "last_commit": "2026-08-21T14:23:52Z",
                 "owner": "maximhq",
                 "repo": "bifrost",
-                "stars": 7455
+                "stars": 7476
               }
             },
             {
               "node_type": "item",
-              "title": "agentgateway (⭐4.2k)",
+              "title": "agentgateway (⭐4.4k)",
               "description": "An open-source data plane for agentic AI connectivity, providing security, observability, and governance for agent-to-tool (MCP) and agent-to-agent (A2A) communication.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 950891299,
                 "language": "Rust",
-                "last_commit": "2026-08-20T14:23:58Z",
+                "last_commit": "2026-08-20T23:50:48Z",
                 "owner": "agentgateway",
                 "repo": "agentgateway",
-                "stars": 4447
+                "stars": 4464
               }
             },
             {
               "node_type": "item",
-              "title": "IBM ContextForge (⭐4.2k)",
+              "title": "IBM ContextForge (⭐4.3k)",
               "description": "An AI gateway, registry, and proxy that federates MCP, A2A, and REST services behind a single endpoint with governance and observability.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 979886407,
                 "language": "Python",
-                "last_commit": "2026-08-20T14:41:55Z",
+                "last_commit": "2026-08-21T14:47:50Z",
                 "owner": "IBM",
                 "repo": "mcp-context-forge",
-                "stars": 4343
+                "stars": 4348
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 875880554,
                 "language": "Go",
-                "last_commit": "2026-08-20T12:01:36Z",
+                "last_commit": "2026-08-20T15:48:40Z",
                 "owner": "envoyproxy",
                 "repo": "ai-gateway",
-                "stars": 1942
+                "stars": 1948
               }
             },
             {
@@ -107,12 +107,12 @@
                 "last_commit": "2026-08-19T16:59:57Z",
                 "owner": "docker",
                 "repo": "mcp-gateway",
-                "stars": 1536
+                "stars": 1537
               }
             },
             {
               "node_type": "item",
-              "title": "MCPJungle (⭐1.1k)",
+              "title": "MCPJungle (⭐1.2k)",
               "description": "A self-hosted MCP gateway and registry that centralises multiple MCP servers behind one endpoint for AI agents.",
               "children": [],
               "repo_info": {
@@ -127,17 +127,17 @@
             },
             {
               "node_type": "item",
-              "title": "Obot (⭐937)",
+              "title": "Obot (⭐953)",
               "description": "An open-source MCP platform that combines server hosting, a registry, a gateway, and a chat client with access control and audit logging.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 852998534,
                 "language": "Go",
-                "last_commit": "2026-08-19T18:57:53Z",
+                "last_commit": "2026-08-21T02:44:27Z",
                 "owner": "obot-platform",
                 "repo": "obot",
-                "stars": 952
+                "stars": 954
               }
             }
           ],
@@ -156,25 +156,25 @@
                 "archived": false,
                 "id": 20717348,
                 "language": "Java",
-                "last_commit": "2026-08-19T06:03:40Z",
+                "last_commit": "2026-08-21T12:47:12Z",
                 "owner": "wso2",
                 "repo": "product-apim",
-                "stars": 1019
+                "stars": 1020
               }
             },
             {
               "node_type": "item",
-              "title": "Gravitee.io API Management (⭐439)",
+              "title": "Gravitee.io API Management (⭐442)",
               "description": "A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 36487440,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:43:55Z",
+                "last_commit": "2026-08-21T14:37:27Z",
                 "owner": "gravitee-io",
                 "repo": "gravitee-api-management",
-                "stars": 442
+                "stars": 443
               }
             }
           ],
@@ -193,7 +193,7 @@
                 "archived": false,
                 "id": 133134007,
                 "language": "Java",
-                "last_commit": "2026-08-20T07:41:29Z",
+                "last_commit": "2026-08-21T05:55:46Z",
                 "owner": "OpenAPITools",
                 "repo": "openapi-generator",
                 "stars": 26682
@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-19T06:12:02Z",
                 "owner": "swagger-api",
                 "repo": "swagger-editor",
-                "stars": 9460
+                "stars": 9461
               }
             },
             {
@@ -231,17 +231,17 @@
             },
             {
               "node_type": "item",
-              "title": "Kiota (⭐3.7k)",
+              "title": "Kiota (⭐3.8k)",
               "description": "A command-line generator from Microsoft that turns an OpenAPI description into a lightweight, strongly typed API client in many languages.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 323665366,
                 "language": "C#",
-                "last_commit": "2026-08-20T14:47:21Z",
+                "last_commit": "2026-08-21T12:00:51Z",
                 "owner": "microsoft",
                 "repo": "kiota",
-                "stars": 3807
+                "stars": 3808
               }
             },
             {
@@ -256,19 +256,19 @@
                 "last_commit": "2026-08-19T09:56:59Z",
                 "owner": "stoplightio",
                 "repo": "spectral",
-                "stars": 3185
+                "stars": 3186
               }
             },
             {
               "node_type": "item",
-              "title": "Redocly CLI (⭐1.4k)",
+              "title": "Redocly CLI (⭐1.5k)",
               "description": "Lint, bundle, and preview OpenAPI descriptions with configurable rulesets and plugins.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 207588519,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:07:28Z",
+                "last_commit": "2026-08-21T14:26:58Z",
                 "owner": "Redocly",
                 "repo": "redocly-cli",
                 "stars": 1503
@@ -298,10 +298,10 @@
                 "archived": false,
                 "id": 337689065,
                 "language": "Go",
-                "last_commit": "2026-08-20T12:26:04Z",
+                "last_commit": "2026-08-21T14:11:20Z",
                 "owner": "oasdiff",
                 "repo": "oasdiff",
-                "stars": 1324
+                "stars": 1325
               }
             },
             {
@@ -351,7 +351,7 @@
             },
             {
               "node_type": "item",
-              "title": "Zally (⭐945)",
+              "title": "Zally (⭐946)",
               "description": "Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.",
               "children": [],
               "repo_info": {
@@ -410,10 +410,10 @@
                 "archived": false,
                 "id": 2055965,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T23:03:14Z",
+                "last_commit": "2026-08-21T10:25:11Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28979
+                "stars": 28980
               }
             },
             {
@@ -428,7 +428,7 @@
                 "last_commit": "2026-08-20T14:24:51Z",
                 "owner": "Redocly",
                 "repo": "redoc",
-                "stars": 25886
+                "stars": 25885
               }
             },
             {
@@ -440,10 +440,10 @@
                 "archived": false,
                 "id": 679280065,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:46:38Z",
+                "last_commit": "2026-08-21T11:10:17Z",
                 "owner": "scalar",
                 "repo": "scalar",
-                "stars": 15949
+                "stars": 15955
               }
             },
             {
@@ -455,10 +455,10 @@
                 "archived": false,
                 "id": 476820102,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:45:59Z",
+                "last_commit": "2026-08-21T14:18:34Z",
                 "owner": "fern-api",
                 "repo": "fern",
-                "stars": 3763
+                "stars": 3762
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2026-08-20T01:11:48Z",
                 "owner": "stoplightio",
                 "repo": "elements",
-                "stars": 2453
+                "stars": 2452
               }
             },
             {
@@ -508,7 +508,7 @@
             },
             {
               "node_type": "item",
-              "title": "Zudoku (⭐575)",
+              "title": "Zudoku (⭐581)",
               "description": "A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.",
               "children": [],
               "repo_info": {
@@ -538,7 +538,7 @@
             },
             {
               "node_type": "item",
-              "title": "OpenAPI Explorer (⭐352)",
+              "title": "OpenAPI Explorer (⭐353)",
               "description": "Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.",
               "children": [],
               "repo_info": {
@@ -548,7 +548,7 @@
                 "last_commit": "2026-07-20T16:07:04Z",
                 "owner": "Authress-Engineering",
                 "repo": "openapi-explorer",
-                "stars": 352
+                "stars": 353
               }
             }
           ],
@@ -567,15 +567,15 @@
                 "archived": false,
                 "id": 42408804,
                 "language": "Go",
-                "last_commit": "2026-08-20T14:20:06Z",
+                "last_commit": "2026-08-21T14:00:09Z",
                 "owner": "traefik",
                 "repo": "traefik",
-                "stars": 64514
+                "stars": 64529
               }
             },
             {
               "node_type": "item",
-              "title": "Kong API Gateway (⭐43k)",
+              "title": "Kong API Gateway (⭐44k)",
               "description": "A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.",
               "children": [],
               "repo_info": {
@@ -585,12 +585,12 @@
                 "last_commit": "2026-08-16T14:44:43Z",
                 "owner": "Kong",
                 "repo": "kong",
-                "stars": 44008
+                "stars": 44016
               }
             },
             {
               "node_type": "item",
-              "title": "Apache APISIX (⭐16k)",
+              "title": "Apache APISIX (⭐17k)",
               "description": "A high-performance, dynamic gateway featuring real-time traffic management and powerful plugin integrations.",
               "children": [],
               "repo_info": {
@@ -600,7 +600,7 @@
                 "last_commit": "2026-08-20T10:17:33Z",
                 "owner": "apache",
                 "repo": "apisix",
-                "stars": 17011
+                "stars": 17016
               }
             },
             {
@@ -612,7 +612,7 @@
                 "archived": false,
                 "id": 19537979,
                 "language": "Go",
-                "last_commit": "2026-08-20T14:28:25Z",
+                "last_commit": "2026-08-21T14:31:28Z",
                 "owner": "TykTechnologies",
                 "repo": "tyk",
                 "stars": 10795
@@ -620,7 +620,7 @@
             },
             {
               "node_type": "item",
-              "title": "Higress (⭐9k)",
+              "title": "Higress (⭐9.1k)",
               "description": "A next-generation cloud-native gateway based on Envoy and Istio, offering high performance, easy-to-use, and rich plugin extensibility.",
               "children": [],
               "repo_info": {
@@ -630,7 +630,7 @@
                 "last_commit": "2026-08-20T05:45:44Z",
                 "owner": "higress-group",
                 "repo": "higress",
-                "stars": 9152
+                "stars": 9157
               }
             },
             {
@@ -642,10 +642,10 @@
                 "archived": false,
                 "id": 140543886,
                 "language": "Java",
-                "last_commit": "2026-08-20T10:57:22Z",
+                "last_commit": "2026-08-21T02:18:58Z",
                 "owner": "apache",
                 "repo": "shenyu",
-                "stars": 8818
+                "stars": 8819
               }
             },
             {
@@ -657,7 +657,7 @@
                 "archived": false,
                 "id": 62256097,
                 "language": "C#",
-                "last_commit": "2026-08-19T17:08:30Z",
+                "last_commit": "2026-08-21T11:22:03Z",
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
                 "stars": 8716
@@ -672,10 +672,10 @@
                 "archived": false,
                 "id": 118510171,
                 "language": "Go",
-                "last_commit": "2026-08-20T01:28:46Z",
+                "last_commit": "2026-08-21T07:18:09Z",
                 "owner": "kgateway-dev",
                 "repo": "kgateway",
-                "stars": 5666
+                "stars": 5667
               }
             },
             {
@@ -687,7 +687,7 @@
                 "archived": false,
                 "id": 73963835,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:05:00Z",
+                "last_commit": "2026-08-20T19:13:55Z",
                 "owner": "spring-cloud",
                 "repo": "spring-cloud-gateway",
                 "stars": 4904
@@ -702,10 +702,10 @@
                 "archived": false,
                 "id": 480573177,
                 "language": "Go",
-                "last_commit": "2026-08-20T12:58:49Z",
+                "last_commit": "2026-08-21T14:18:55Z",
                 "owner": "envoyproxy",
                 "repo": "gateway",
-                "stars": 2967
+                "stars": 2971
               }
             },
             {
@@ -720,7 +720,7 @@
                 "last_commit": "2026-08-20T10:42:33Z",
                 "owner": "krakend",
                 "repo": "krakend-ce",
-                "stars": 2667
+                "stars": 2668
               }
             },
             {
@@ -759,10 +759,10 @@
                     "archived": false,
                     "id": 203587744,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T14:33:07Z",
+                    "last_commit": "2026-08-20T16:38:46Z",
                     "owner": "hoppscotch",
                     "repo": "hoppscotch",
-                    "stars": 80062
+                    "stars": 80070
                   }
                 },
                 {
@@ -774,10 +774,10 @@
                     "archived": false,
                     "id": 542284380,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-20T14:09:36Z",
+                    "last_commit": "2026-08-21T12:39:35Z",
                     "owner": "usebruno",
                     "repo": "bruno",
-                    "stars": 46432
+                    "stars": 46451
                   }
                 },
                 {
@@ -789,10 +789,10 @@
                     "archived": false,
                     "id": 569041,
                     "language": "C",
-                    "last_commit": "2026-08-20T14:42:39Z",
+                    "last_commit": "2026-08-21T09:36:34Z",
                     "owner": "curl",
                     "repo": "curl",
-                    "stars": 42649
+                    "stars": 42654
                   }
                 },
                 {
@@ -804,7 +804,7 @@
                     "archived": false,
                     "id": 56899284,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T13:16:27Z",
+                    "last_commit": "2026-08-21T10:04:23Z",
                     "owner": "Kong",
                     "repo": "insomnia",
                     "stars": 39957
@@ -822,22 +822,22 @@
                     "last_commit": "2024-12-17T17:30:35Z",
                     "owner": "httpie",
                     "repo": "cli",
-                    "stars": 38434
+                    "stars": 38438
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "Yaak (⭐18k)",
+                  "title": "Yaak (⭐19k)",
                   "description": "A fast, privacy-first desktop API client for REST, GraphQL, WebSocket, Server-Sent Events, and gRPC with offline-first design, built with Tauri and React.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 602379707,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T14:44:17Z",
+                    "last_commit": "2026-08-21T07:07:05Z",
                     "owner": "mountain-loop",
                     "repo": "yaak",
-                    "stars": 19093
+                    "stars": 19103
                   }
                 },
                 {
@@ -852,7 +852,7 @@
                     "last_commit": "2026-08-17T12:35:49Z",
                     "owner": "fullstorydev",
                     "repo": "grpcurl",
-                    "stars": 12781
+                    "stars": 12782
                   }
                 },
                 {
@@ -867,7 +867,7 @@
                     "last_commit": "2026-03-25T23:30:48Z",
                     "owner": "darrenburns",
                     "repo": "posting",
-                    "stars": 12287
+                    "stars": 12294
                   }
                 },
                 {
@@ -894,10 +894,10 @@
                     "archived": false,
                     "id": 75255555,
                     "language": null,
-                    "last_commit": "2026-08-20T10:30:34Z",
+                    "last_commit": "2026-08-21T10:30:20Z",
                     "owner": "requestly",
                     "repo": "requestly",
-                    "stars": 6750
+                    "stars": 6751
                   }
                 },
                 {
@@ -912,7 +912,7 @@
                     "last_commit": "2026-08-17T19:23:09Z",
                     "owner": "fullstorydev",
                     "repo": "grpcui",
-                    "stars": 5918
+                    "stars": 5920
                   }
                 },
                 {
@@ -927,7 +927,7 @@
                     "last_commit": "2025-12-07T20:14:24Z",
                     "owner": "rs",
                     "repo": "curlie",
-                    "stars": 3711
+                    "stars": 3712
                   }
                 },
                 {
@@ -957,7 +957,7 @@
                     "last_commit": "2025-09-08T11:57:37Z",
                     "owner": "EsperoTech",
                     "repo": "yaade",
-                    "stars": 1985
+                    "stars": 1986
                   }
                 },
                 {
@@ -999,7 +999,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "Spring Cloud Contract (⭐732)",
+                  "title": "Spring Cloud Contract (⭐731)",
                   "description": "Consumer-driven contract testing for JVM applications, generating tests and stubs from Groovy or YAML contract definitions.",
                   "children": [],
                   "repo_info": {
@@ -1014,14 +1014,14 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Specmatic (⭐393)",
+                  "title": "Specmatic (⭐395)",
                   "description": "Turns OpenAPI, AsyncAPI, and gRPC specifications into executable contracts for contract-driven development and testing.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 247710440,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-20T00:27:16Z",
+                    "last_commit": "2026-08-21T00:28:13Z",
                     "owner": "specmatic",
                     "repo": "specmatic",
                     "stars": 395
@@ -1061,7 +1061,7 @@
                     "last_commit": "2026-05-08T01:27:42Z",
                     "owner": "thomasnordquist",
                     "repo": "MQTT-Explorer",
-                    "stars": 4042
+                    "stars": 4043
                   }
                 },
                 {
@@ -1081,7 +1081,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "JMSToolBox (⭐235)",
+                  "title": "JMSToolBox (⭐234)",
                   "description": "A universal JMS client offering broad compatibility and streamlined messaging testing across various brokers.",
                   "children": [],
                   "repo_info": {
@@ -1113,7 +1113,7 @@
                     "last_commit": "2026-07-24T08:54:35Z",
                     "owner": "mswjs",
                     "repo": "msw",
-                    "stars": 18151
+                    "stars": 18152
                   }
                 },
                 {
@@ -1128,7 +1128,7 @@
                     "last_commit": "2026-08-19T10:49:58Z",
                     "owner": "mockoon",
                     "repo": "mockoon",
-                    "stars": 8371
+                    "stars": 8373
                   }
                 },
                 {
@@ -1140,10 +1140,10 @@
                     "archived": false,
                     "id": 2544305,
                     "language": "Java",
-                    "last_commit": "2026-08-20T10:46:56Z",
+                    "last_commit": "2026-08-21T10:53:31Z",
                     "owner": "wiremock",
                     "repo": "wiremock",
-                    "stars": 7339
+                    "stars": 7340
                   }
                 },
                 {
@@ -1158,7 +1158,7 @@
                     "last_commit": "2026-08-13T09:37:03Z",
                     "owner": "stoplightio",
                     "repo": "prism",
-                    "stars": 5010
+                    "stars": 5011
                   }
                 },
                 {
@@ -1170,10 +1170,10 @@
                     "archived": false,
                     "id": 8426406,
                     "language": "Java",
-                    "last_commit": "2026-08-20T06:56:26Z",
+                    "last_commit": "2026-08-21T06:32:14Z",
                     "owner": "mock-server",
                     "repo": "mockserver-monorepo",
-                    "stars": 4945
+                    "stars": 4947
                   }
                 },
                 {
@@ -1215,7 +1215,7 @@
                     "archived": false,
                     "id": 31214867,
                     "language": "Java",
-                    "last_commit": "2026-08-19T20:28:53Z",
+                    "last_commit": "2026-08-21T13:01:15Z",
                     "owner": "microcks",
                     "repo": "microcks",
                     "stars": 2022
@@ -1223,7 +1223,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Imposter (⭐414)",
+                  "title": "Imposter (⭐415)",
                   "description": "A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.",
                   "children": [],
                   "repo_info": {
@@ -1238,7 +1238,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Mockbin (⭐140)",
+                  "title": "Mockbin (⭐144)",
                   "description": "A simple endpoint generator for testing HTTP requests with real-time logging and feedback.",
                   "children": [],
                   "repo_info": {
@@ -1267,10 +1267,10 @@
                     "archived": false,
                     "id": 54400687,
                     "language": "Go",
-                    "last_commit": "2026-08-20T07:20:33Z",
+                    "last_commit": "2026-08-21T13:43:45Z",
                     "owner": "grafana",
                     "repo": "k6",
-                    "stars": 31286
+                    "stars": 31290
                   }
                 },
                 {
@@ -1282,7 +1282,7 @@
                     "archived": false,
                     "id": 290243101,
                     "language": "Rust",
-                    "last_commit": "2026-08-20T11:33:48Z",
+                    "last_commit": "2026-08-21T08:28:47Z",
                     "owner": "Orange-OpenSource",
                     "repo": "hurl",
                     "stars": 19153
@@ -1297,10 +1297,10 @@
                     "archived": false,
                     "id": 449649393,
                     "language": "Go",
-                    "last_commit": "2026-08-20T13:34:56Z",
+                    "last_commit": "2026-08-21T13:07:42Z",
                     "owner": "keploy",
                     "repo": "keploy",
-                    "stars": 18411
+                    "stars": 18413
                   }
                 },
                 {
@@ -1315,7 +1315,7 @@
                     "last_commit": "2026-08-14T19:33:43Z",
                     "owner": "apache",
                     "repo": "jmeter",
-                    "stars": 9515
+                    "stars": 9516
                   }
                 },
                 {
@@ -1330,7 +1330,7 @@
                     "last_commit": "2026-08-14T13:20:22Z",
                     "owner": "artilleryio",
                     "repo": "artillery",
-                    "stars": 9054
+                    "stars": 9055
                   }
                 },
                 {
@@ -1342,10 +1342,10 @@
                     "archived": false,
                     "id": 81226206,
                     "language": "Java",
-                    "last_commit": "2026-08-17T10:28:58Z",
+                    "last_commit": "2026-08-21T10:04:19Z",
                     "owner": "karatelabs",
                     "repo": "karate",
-                    "stars": 8926
+                    "stars": 8924
                   }
                 },
                 {
@@ -1360,7 +1360,7 @@
                     "last_commit": "2026-07-22T08:35:07Z",
                     "owner": "rest-assured",
                     "repo": "rest-assured",
-                    "stars": 7136
+                    "stars": 7137
                   }
                 },
                 {
@@ -1387,10 +1387,10 @@
                     "archived": false,
                     "id": 203157084,
                     "language": "Python",
-                    "last_commit": "2026-08-20T08:41:28Z",
+                    "last_commit": "2026-08-21T12:27:27Z",
                     "owner": "schemathesis",
                     "repo": "schemathesis",
-                    "stars": 3541
+                    "stars": 3546
                   }
                 },
                 {
@@ -1432,7 +1432,7 @@
                     "archived": false,
                     "id": 30940272,
                     "language": "Python",
-                    "last_commit": "2026-08-20T10:16:29Z",
+                    "last_commit": "2026-08-21T11:10:56Z",
                     "owner": "Blazemeter",
                     "repo": "taurus",
                     "stars": 2110
@@ -1494,7 +1494,7 @@
             },
             {
               "node_type": "item",
-              "title": "phase4 (⭐234)",
+              "title": "phase4 (⭐235)",
               "description": "Embeddable, lightweight Java library implementing the AS4 messaging protocol, including the Peppol and CEF/eDelivery profiles.",
               "children": [],
               "repo_info": {
@@ -1526,34 +1526,34 @@
                 "last_commit": "2026-08-18T19:03:32Z",
                 "owner": "apache",
                 "repo": "incubator-kie",
-                "stars": 6298
+                "stars": 6301
               }
             },
             {
               "node_type": "item",
-              "title": "ZEN Engine (⭐1.8k)",
+              "title": "ZEN Engine (⭐1.9k)",
               "description": "A cross-platform, open-source Business Rules Engine written in Rust that executes JSON Decision Models through interconnected graphs of decision tables, functions, and expressions.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 621008232,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:04:42Z",
+                "last_commit": "2026-08-20T21:24:57Z",
                 "owner": "gorules",
                 "repo": "zen",
-                "stars": 1932
+                "stars": 1934
               }
             },
             {
               "node_type": "item",
-              "title": "OpenL Tablets (⭐201)",
+              "title": "OpenL Tablets (⭐204)",
               "description": "Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 39414547,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:23:40Z",
+                "last_commit": "2026-08-21T14:46:03Z",
                 "owner": "openl-tablets",
                 "repo": "openl-tablets",
                 "stars": 204
@@ -1590,10 +1590,10 @@
                 "archived": false,
                 "id": 50205233,
                 "language": "Java",
-                "last_commit": "2026-08-20T13:04:23Z",
+                "last_commit": "2026-08-21T13:10:11Z",
                 "owner": "debezium",
                 "repo": "debezium",
-                "stars": 13028
+                "stars": 13031
               }
             },
             {
@@ -1608,7 +1608,7 @@
                 "last_commit": "2026-08-13T01:22:29Z",
                 "owner": "zendesk",
                 "repo": "maxwell",
-                "stars": 4255
+                "stars": 4256
               }
             },
             {
@@ -1620,10 +1620,10 @@
                 "archived": false,
                 "id": 628390075,
                 "language": "Go",
-                "last_commit": "2026-08-20T13:31:51Z",
+                "last_commit": "2026-08-21T13:28:59Z",
                 "owner": "PeerDB-io",
                 "repo": "peerdb",
-                "stars": 3244
+                "stars": 3245
               }
             },
             {
@@ -1638,7 +1638,7 @@
                 "last_commit": "2026-02-23T23:39:01Z",
                 "owner": "sequinstream",
                 "repo": "sequin",
-                "stars": 2187
+                "stars": 2188
               }
             }
           ],
@@ -1657,10 +1657,10 @@
                 "archived": false,
                 "id": 283046497,
                 "language": "Python",
-                "last_commit": "2026-08-20T14:43:03Z",
+                "last_commit": "2026-08-21T14:13:42Z",
                 "owner": "airbytehq",
                 "repo": "airbyte",
-                "stars": 21925
+                "stars": 21936
               }
             },
             {
@@ -1672,7 +1672,7 @@
                 "archived": false,
                 "id": 99412308,
                 "language": "Java",
-                "last_commit": "2026-08-20T13:34:18Z",
+                "last_commit": "2026-08-21T13:39:37Z",
                 "owner": "apache",
                 "repo": "seatunnel",
                 "stars": 9570
@@ -1687,25 +1687,25 @@
                 "archived": false,
                 "id": 13421878,
                 "language": "Java",
-                "last_commit": "2026-08-20T13:52:23Z",
+                "last_commit": "2026-08-21T13:55:09Z",
                 "owner": "pentaho",
                 "repo": "pentaho-kettle",
-                "stars": 8382
+                "stars": 8383
               }
             },
             {
               "node_type": "item",
-              "title": "Apache NiFi (⭐6.1k)",
+              "title": "Apache NiFi (⭐6.2k)",
               "description": "Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 27911088,
                 "language": "Java",
-                "last_commit": "2026-08-20T13:27:39Z",
+                "last_commit": "2026-08-21T09:48:07Z",
                 "owner": "apache",
                 "repo": "nifi",
-                "stars": 6200
+                "stars": 6204
               }
             },
             {
@@ -1717,25 +1717,25 @@
                 "archived": false,
                 "id": 452221115,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:36:00Z",
+                "last_commit": "2026-08-21T12:36:01Z",
                 "owner": "dlt-hub",
                 "repo": "dlt",
-                "stars": 5759
+                "stars": 5767
               }
             },
             {
               "node_type": "item",
-              "title": "Meltano (⭐2.5k)",
+              "title": "Meltano (⭐2.6k)",
               "description": "Declarative, code-first data integration engine that runs Singer taps and targets with version-controlled pipeline configuration.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 378997214,
                 "language": "Python",
-                "last_commit": "2026-08-20T01:29:52Z",
+                "last_commit": "2026-08-21T11:36:10Z",
                 "owner": "meltano",
                 "repo": "meltano",
-                "stars": 2598
+                "stars": 2601
               }
             },
             {
@@ -1750,7 +1750,7 @@
                 "last_commit": "2026-08-19T07:18:37Z",
                 "owner": "apache",
                 "repo": "inlong",
-                "stars": 1496
+                "stars": 1497
               }
             },
             {
@@ -1770,22 +1770,22 @@
             },
             {
               "node_type": "item",
-              "title": "Estuary Flow (⭐960)",
+              "title": "Estuary Flow (⭐961)",
               "description": "Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 240173596,
                 "language": "Rust",
-                "last_commit": "2026-08-20T14:16:41Z",
+                "last_commit": "2026-08-21T14:07:28Z",
                 "owner": "estuary",
                 "repo": "flow",
-                "stars": 961
+                "stars": 962
               }
             },
             {
               "node_type": "item",
-              "title": "Sling (⭐885)",
+              "title": "Sling (⭐890)",
               "description": "Fast ELT command-line tool and Go library for moving data between databases, files, and cloud storage across a wide set of connectors.",
               "children": [],
               "repo_info": {
@@ -1800,14 +1800,14 @@
             },
             {
               "node_type": "item",
-              "title": "Conduit (⭐605)",
+              "title": "Conduit (⭐606)",
               "description": "Lightweight data integration tool written in Go that streams data between systems using built-in or standalone connectors, with Kafka Connect compatibility.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 446826327,
                 "language": "Go",
-                "last_commit": "2026-08-20T09:03:28Z",
+                "last_commit": "2026-08-21T14:42:12Z",
                 "owner": "ConduitIO",
                 "repo": "conduit",
                 "stars": 606
@@ -1852,7 +1852,7 @@
             },
             {
               "node_type": "item",
-              "title": "JSLT (⭐698)",
+              "title": "JSLT (⭐699)",
               "description": "Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.",
               "children": [],
               "repo_info": {
@@ -1867,7 +1867,7 @@
             },
             {
               "node_type": "item",
-              "title": "AtlasMap (⭐213)",
+              "title": "AtlasMap (⭐212)",
               "description": "Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.",
               "children": [],
               "repo_info": {
@@ -1882,7 +1882,7 @@
             },
             {
               "node_type": "item",
-              "title": "Kaoto (⭐112)",
+              "title": "Kaoto (⭐119)",
               "description": "Visual data mapper for Apache Camel with a drag-and-drop interface supporting XML, JSON, CSV, and XSLT transformations. Successor to AtlasMap.",
               "children": [],
               "repo_info": {
@@ -1892,7 +1892,7 @@
                 "last_commit": "2026-08-20T14:38:14Z",
                 "owner": "KaotoIO",
                 "repo": "kaoto",
-                "stars": 119
+                "stars": 120
               }
             },
             {
@@ -1934,7 +1934,7 @@
             },
             {
               "node_type": "item",
-              "title": "WSO2 Integrator: MI (⭐258)",
+              "title": "WSO2 Integrator: MI (⭐259)",
               "description": "The configuration-driven integration runtime of the WSO2 Integrator platform, supporting enterprise integration patterns in centralised and containerised deployments.",
               "children": [],
               "repo_info": {
@@ -1978,7 +1978,7 @@
                 "archived": false,
                 "id": 206317,
                 "language": "Java",
-                "last_commit": "2026-08-19T07:40:07Z",
+                "last_commit": "2026-08-21T09:29:26Z",
                 "owner": "apache",
                 "repo": "camel",
                 "stars": 6293
@@ -1996,7 +1996,7 @@
                 "last_commit": "2026-08-14T06:16:31Z",
                 "owner": "ballerina-platform",
                 "repo": "ballerina-lang",
-                "stars": 3847
+                "stars": 3846
               }
             },
             {
@@ -2008,10 +2008,10 @@
                 "archived": false,
                 "id": 535344839,
                 "language": "C#",
-                "last_commit": "2026-08-20T11:08:37Z",
+                "last_commit": "2026-08-21T05:29:13Z",
                 "owner": "JasperFx",
                 "repo": "wolverine",
-                "stars": 2318
+                "stars": 2320
               }
             },
             {
@@ -2023,10 +2023,10 @@
                 "archived": false,
                 "id": 2090979,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:07:37Z",
+                "last_commit": "2026-08-20T18:29:05Z",
                 "owner": "spring-projects",
                 "repo": "spring-integration",
-                "stars": 1627
+                "stars": 1626
               }
             },
             {
@@ -2038,7 +2038,7 @@
                 "archived": false,
                 "id": 38764029,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:05:14Z",
+                "last_commit": "2026-08-20T19:14:12Z",
                 "owner": "spring-cloud",
                 "repo": "spring-cloud-stream",
                 "stars": 1069
@@ -2053,7 +2053,7 @@
                 "archived": false,
                 "id": 8927606,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:27:08Z",
+                "last_commit": "2026-08-21T14:36:02Z",
                 "owner": "frankframework",
                 "repo": "frankframework",
                 "stars": 165
@@ -2075,10 +2075,10 @@
                 "archived": false,
                 "id": 2211243,
                 "language": "Java",
-                "last_commit": "2026-08-20T13:05:44Z",
+                "last_commit": "2026-08-21T13:53:52Z",
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33569
+                "stars": 33584
               }
             },
             {
@@ -2093,7 +2093,7 @@
                 "last_commit": "2026-08-11T18:19:49Z",
                 "owner": "nsqio",
                 "repo": "nsq",
-                "stars": 25772
+                "stars": 25771
               }
             },
             {
@@ -2120,10 +2120,10 @@
                 "archived": false,
                 "id": 6443435,
                 "language": "Go",
-                "last_commit": "2026-08-20T14:45:09Z",
+                "last_commit": "2026-08-21T13:50:13Z",
                 "owner": "nats-io",
                 "repo": "nats-server",
-                "stars": 20552
+                "stars": 20558
               }
             },
             {
@@ -2135,10 +2135,10 @@
                 "archived": false,
                 "id": 7202769,
                 "language": "Erlang",
-                "last_commit": "2026-08-20T14:19:47Z",
+                "last_commit": "2026-08-21T14:30:48Z",
                 "owner": "emqx",
                 "repo": "emqx",
-                "stars": 16646
+                "stars": 16647
               }
             },
             {
@@ -2150,10 +2150,10 @@
                 "archived": false,
                 "id": 62117812,
                 "language": "Java",
-                "last_commit": "2026-08-20T08:57:37Z",
+                "last_commit": "2026-08-20T23:16:20Z",
                 "owner": "apache",
                 "repo": "pulsar",
-                "stars": 15310
+                "stars": 15311
               }
             },
             {
@@ -2165,10 +2165,10 @@
                 "archived": false,
                 "id": 924551,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T14:49:01Z",
+                "last_commit": "2026-08-21T11:00:19Z",
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-server",
-                "stars": 13793
+                "stars": 13799
               }
             },
             {
@@ -2183,7 +2183,7 @@
                 "last_commit": "2026-08-20T07:20:54Z",
                 "owner": "redpanda-data",
                 "repo": "redpanda",
-                "stars": 12464
+                "stars": 12465
               }
             },
             {
@@ -2198,7 +2198,7 @@
                 "last_commit": "2026-07-30T09:31:44Z",
                 "owner": "eclipse-mosquitto",
                 "repo": "mosquitto",
-                "stars": 11144
+                "stars": 11146
               }
             },
             {
@@ -2213,7 +2213,7 @@
                 "last_commit": "2026-07-26T12:58:13Z",
                 "owner": "zeromq",
                 "repo": "libzmq",
-                "stars": 10969
+                "stars": 10970
               }
             },
             {
@@ -2228,7 +2228,7 @@
                 "last_commit": "2026-08-18T16:35:36Z",
                 "owner": "centrifugal",
                 "repo": "centrifugo",
-                "stars": 10641
+                "stars": 10643
               }
             },
             {
@@ -2240,25 +2240,25 @@
                 "archived": false,
                 "id": 679601811,
                 "language": "Java",
-                "last_commit": "2026-08-20T10:44:43Z",
+                "last_commit": "2026-08-21T06:48:49Z",
                 "owner": "AutoMQ",
                 "repo": "automq",
-                "stars": 10530
+                "stars": 10542
               }
             },
             {
               "node_type": "item",
-              "title": "Apache Iggy (⭐4.4k)",
+              "title": "Apache Iggy (⭐4.5k)",
               "description": "Persistent message streaming platform written in Rust, supporting QUIC, TCP, and HTTP transports with high throughput and low latency.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 615853935,
                 "language": "Rust",
-                "last_commit": "2026-08-20T14:40:18Z",
+                "last_commit": "2026-08-21T11:57:05Z",
                 "owner": "apache",
                 "repo": "iggy",
-                "stars": 4519
+                "stars": 4520
               }
             },
             {
@@ -2285,10 +2285,10 @@
                 "archived": false,
                 "id": 665300681,
                 "language": "C++",
-                "last_commit": "2026-08-19T20:32:09Z",
+                "last_commit": "2026-08-20T23:41:04Z",
                 "owner": "bloomberg",
                 "repo": "blazingmq",
-                "stars": 3205
+                "stars": 3206
               }
             },
             {
@@ -2303,7 +2303,7 @@
                 "last_commit": "2026-08-12T00:34:04Z",
                 "owner": "softwaremill",
                 "repo": "elasticmq",
-                "stars": 2915
+                "stars": 2916
               }
             },
             {
@@ -2315,7 +2315,7 @@
                 "archived": false,
                 "id": 38644318,
                 "language": "Go",
-                "last_commit": "2026-08-20T11:09:43Z",
+                "last_commit": "2026-08-21T14:21:35Z",
                 "owner": "absmach",
                 "repo": "magistrala",
                 "stars": 2626
@@ -2330,7 +2330,7 @@
                 "archived": false,
                 "id": 206387,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:11:09Z",
+                "last_commit": "2026-08-20T23:54:41Z",
                 "owner": "apache",
                 "repo": "activemq",
                 "stars": 2451
@@ -2375,7 +2375,7 @@
                 "archived": false,
                 "id": 178892772,
                 "language": "Java",
-                "last_commit": "2026-08-18T23:25:46Z",
+                "last_commit": "2026-08-20T18:54:55Z",
                 "owner": "hivemq",
                 "repo": "hivemq-community-edition",
                 "stars": 1206
@@ -2390,7 +2390,7 @@
                 "archived": false,
                 "id": 36057260,
                 "language": "Java",
-                "last_commit": "2026-08-20T02:23:27Z",
+                "last_commit": "2026-08-21T09:32:24Z",
                 "owner": "apache",
                 "repo": "artemis",
                 "stars": 1038
@@ -2398,22 +2398,22 @@
             },
             {
               "node_type": "item",
-              "title": "LavinMQ (⭐987)",
+              "title": "LavinMQ (⭐995)",
               "description": "High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 90196632,
                 "language": "Crystal",
-                "last_commit": "2026-08-20T12:36:27Z",
+                "last_commit": "2026-08-21T12:04:26Z",
                 "owner": "cloudamqp",
                 "repo": "lavinmq",
-                "stars": 995
+                "stars": 997
               }
             },
             {
               "node_type": "item",
-              "title": "Apache Qpid (⭐70)",
+              "title": "Apache Qpid (⭐71)",
               "description": "AMQP-compliant messaging tool with multi-language support for enterprise-grade message delivery.",
               "children": [],
               "repo_info": {
@@ -2442,10 +2442,10 @@
                 "archived": false,
                 "id": 21273155,
                 "language": "Python",
-                "last_commit": "2026-08-20T10:52:24Z",
+                "last_commit": "2026-08-21T11:36:37Z",
                 "owner": "robotframework",
                 "repo": "robotframework",
-                "stars": 11828
+                "stars": 11834
               }
             },
             {
@@ -2460,7 +2460,7 @@
                 "last_commit": "2026-07-21T06:27:02Z",
                 "owner": "aisingapore",
                 "repo": "TagUI",
-                "stars": 6323
+                "stars": 6324
               }
             },
             {
@@ -2475,7 +2475,7 @@
                 "last_commit": "2026-04-15T09:07:37Z",
                 "owner": "open-rpa",
                 "repo": "openrpa",
-                "stars": 3044
+                "stars": 3046
               }
             }
           ],
@@ -2494,7 +2494,7 @@
                 "archived": false,
                 "id": 27790789,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:47:42Z",
+                "last_commit": "2026-08-21T14:42:20Z",
                 "owner": "confluentinc",
                 "repo": "schema-registry",
                 "stars": 2461
@@ -2502,32 +2502,32 @@
             },
             {
               "node_type": "item",
-              "title": "Apicurio Registry (⭐902)",
+              "title": "Apicurio Registry (⭐918)",
               "description": "Open-source registry for API designs and schemas, supporting Avro, Protobuf, JSON Schema, OpenAPI, and AsyncAPI artifacts with configurable compatibility rules.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 197192301,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:07:28Z",
+                "last_commit": "2026-08-21T14:08:19Z",
                 "owner": "Apicurio",
                 "repo": "apicurio-registry",
-                "stars": 918
+                "stars": 917
               }
             },
             {
               "node_type": "item",
-              "title": "Karapace (⭐625)",
+              "title": "Karapace (⭐630)",
               "description": "Open-source, drop-in replacement for Confluent Schema Registry and the Kafka REST API.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 164508278,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:42:46Z",
+                "last_commit": "2026-08-21T11:52:59Z",
                 "owner": "Aiven-Open",
                 "repo": "karapace",
-                "stars": 629
+                "stars": 630
               }
             }
           ],
@@ -2539,17 +2539,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "n8n (⭐200k)",
+              "title": "n8n (⭐201k)",
               "description": "Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 193215554,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:48:04Z",
+                "last_commit": "2026-08-21T14:46:39Z",
                 "owner": "n8n-io",
                 "repo": "n8n",
-                "stars": 201325
+                "stars": 201483
               }
             },
             {
@@ -2561,10 +2561,10 @@
                 "archived": false,
                 "id": 8681349,
                 "language": "Ruby",
-                "last_commit": "2026-08-15T05:06:36Z",
+                "last_commit": "2026-08-21T01:50:11Z",
                 "owner": "huginn",
                 "repo": "huginn",
-                "stars": 49825
+                "stars": 49828
               }
             },
             {
@@ -2576,10 +2576,10 @@
                 "archived": false,
                 "id": 573661753,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T14:20:00Z",
+                "last_commit": "2026-08-21T13:18:42Z",
                 "owner": "activepieces",
                 "repo": "activepieces",
-                "stars": 23930
+                "stars": 23955
               }
             },
             {
@@ -2594,7 +2594,7 @@
                 "last_commit": "2026-08-16T12:33:31Z",
                 "owner": "node-red",
                 "repo": "node-red",
-                "stars": 23555
+                "stars": 23560
               }
             },
             {
@@ -2609,7 +2609,7 @@
                 "last_commit": "2026-02-11T19:53:04Z",
                 "owner": "automatisch",
                 "repo": "automatisch",
-                "stars": 13938
+                "stars": 13939
               }
             },
             {
@@ -2621,10 +2621,10 @@
                 "archived": false,
                 "id": 235468657,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T14:28:41Z",
+                "last_commit": "2026-08-21T10:39:33Z",
                 "owner": "PipedreamHQ",
                 "repo": "pipedream",
-                "stars": 11634
+                "stars": 11635
               }
             }
           ],
@@ -2643,10 +2643,10 @@
                 "archived": false,
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-20T14:47:36Z",
+                "last_commit": "2026-08-21T14:46:24Z",
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43842
+                "stars": 43848
               }
             },
             {
@@ -2658,10 +2658,10 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-20T09:00:55Z",
+                "last_commit": "2026-08-21T14:23:59Z",
                 "owner": "apache",
                 "repo": "flink",
-                "stars": 26274
+                "stars": 26272
               }
             },
             {
@@ -2673,10 +2673,10 @@
                 "archived": false,
                 "id": 453068084,
                 "language": "Rust",
-                "last_commit": "2026-08-20T14:39:21Z",
+                "last_commit": "2026-08-21T12:34:32Z",
                 "owner": "risingwavelabs",
                 "repo": "risingwave",
-                "stars": 9274
+                "stars": 9280
               }
             },
             {
@@ -2688,10 +2688,10 @@
                 "archived": false,
                 "id": 54435102,
                 "language": "Go",
-                "last_commit": "2026-08-20T14:19:35Z",
+                "last_commit": "2026-08-21T13:39:08Z",
                 "owner": "redpanda-data",
                 "repo": "connect",
-                "stars": 8731
+                "stars": 8730
               }
             },
             {
@@ -2703,25 +2703,25 @@
                 "archived": false,
                 "id": 50904245,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:46:30Z",
+                "last_commit": "2026-08-21T14:46:38Z",
                 "owner": "apache",
                 "repo": "beam",
-                "stars": 8647
+                "stars": 8648
               }
             },
             {
               "node_type": "item",
-              "title": "Arroyo (⭐4.9k)",
+              "title": "Arroyo (⭐5k)",
               "description": "Rust-native stream processing engine that lets users build real-time pipelines with SQL, designed for serverless operation.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 621929252,
                 "language": "Rust",
-                "last_commit": "2026-08-20T00:49:25Z",
+                "last_commit": "2026-08-20T20:52:20Z",
                 "owner": "ArroyoSystems",
                 "repo": "arroyo",
-                "stars": 5008
+                "stars": 5010
               }
             },
             {
@@ -2733,7 +2733,7 @@
                 "archived": false,
                 "id": 494617920,
                 "language": "Rust",
-                "last_commit": "2026-08-19T15:56:30Z",
+                "last_commit": "2026-08-21T09:34:27Z",
                 "owner": "numaproj",
                 "repo": "numaflow",
                 "stars": 2825
@@ -2756,17 +2756,17 @@
             },
             {
               "node_type": "item",
-              "title": "ksqlDB (⭐314)",
+              "title": "ksqlDB (⭐315)",
               "description": "Database purpose-built for stream processing applications on Kafka, queried with SQL.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 69400326,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:45:00Z",
+                "last_commit": "2026-08-21T14:44:18Z",
                 "owner": "confluentinc",
                 "repo": "ksql",
-                "stars": 314
+                "stars": 315
               }
             }
           ],
@@ -2785,10 +2785,10 @@
                 "archived": false,
                 "id": 342259394,
                 "language": "Rust",
-                "last_commit": "2026-08-19T15:59:17Z",
+                "last_commit": "2026-08-21T12:08:27Z",
                 "owner": "svix",
                 "repo": "svix-webhooks",
-                "stars": 3361
+                "stars": 3362
               }
             },
             {
@@ -2800,10 +2800,10 @@
                 "archived": false,
                 "id": 358943289,
                 "language": "Go",
-                "last_commit": "2026-08-20T13:22:10Z",
+                "last_commit": "2026-08-21T14:01:06Z",
                 "owner": "frain-dev",
                 "repo": "convoy",
-                "stars": 2860
+                "stars": 2859
               }
             }
           ],
@@ -2822,10 +2822,10 @@
                 "archived": false,
                 "id": 33884891,
                 "language": "Python",
-                "last_commit": "2026-08-20T14:03:45Z",
+                "last_commit": "2026-08-21T14:45:37Z",
                 "owner": "apache",
                 "repo": "airflow",
-                "stars": 46552
+                "stars": 46567
               }
             },
             {
@@ -2837,7 +2837,7 @@
                 "archived": false,
                 "id": 728981719,
                 "language": "Java",
-                "last_commit": "2026-08-20T00:23:31Z",
+                "last_commit": "2026-08-21T13:08:01Z",
                 "owner": "conductor-oss",
                 "repo": "conductor",
                 "stars": 32101
@@ -2852,10 +2852,10 @@
                 "archived": false,
                 "id": 204164353,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:31:31Z",
+                "last_commit": "2026-08-21T14:38:06Z",
                 "owner": "kestra-io",
                 "repo": "kestra",
-                "stars": 27864
+                "stars": 27874
               }
             },
             {
@@ -2867,10 +2867,10 @@
                 "archived": false,
                 "id": 139199684,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:53:05Z",
+                "last_commit": "2026-08-21T14:45:35Z",
                 "owner": "PrefectHQ",
                 "repo": "prefect",
-                "stars": 23649
+                "stars": 23648
               }
             },
             {
@@ -2882,10 +2882,10 @@
                 "archived": false,
                 "id": 215654064,
                 "language": "Go",
-                "last_commit": "2026-08-20T14:37:46Z",
+                "last_commit": "2026-08-21T14:44:05Z",
                 "owner": "temporalio",
                 "repo": "temporal",
-                "stars": 22420
+                "stars": 22438
               }
             },
             {
@@ -2897,10 +2897,10 @@
                 "archived": false,
                 "id": 488804911,
                 "language": "Rust",
-                "last_commit": "2026-08-20T14:33:36Z",
+                "last_commit": "2026-08-21T14:44:12Z",
                 "owner": "windmill-labs",
                 "repo": "windmill",
-                "stars": 17589
+                "stars": 17598
               }
             },
             {
@@ -2912,25 +2912,25 @@
                 "archived": false,
                 "id": 100982449,
                 "language": "Go",
-                "last_commit": "2026-08-20T13:30:44Z",
+                "last_commit": "2026-08-21T14:32:03Z",
                 "owner": "argoproj",
                 "repo": "argo-workflows",
-                "stars": 16920
+                "stars": 16924
               }
             },
             {
               "node_type": "item",
-              "title": "Dagster (⭐15k)",
+              "title": "Dagster (⭐16k)",
               "description": "Data orchestrator with a declarative, asset-based programming model for building and observing data pipelines.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 131619646,
                 "language": "Python",
-                "last_commit": "2026-08-19T20:54:06Z",
+                "last_commit": "2026-08-20T17:41:24Z",
                 "owner": "dagster-io",
                 "repo": "dagster",
-                "stars": 16032
+                "stars": 16045
               }
             },
             {
@@ -2942,10 +2942,10 @@
                 "archived": false,
                 "id": 5793738,
                 "language": "Java",
-                "last_commit": "2026-08-20T11:14:45Z",
+                "last_commit": "2026-08-21T09:02:37Z",
                 "owner": "Activiti",
                 "repo": "Activiti",
-                "stars": 10539
+                "stars": 10540
               }
             },
             {
@@ -2957,10 +2957,10 @@
                 "archived": false,
                 "id": 70780002,
                 "language": "Java",
-                "last_commit": "2026-08-20T04:51:19Z",
+                "last_commit": "2026-08-21T13:32:23Z",
                 "owner": "flowable",
                 "repo": "flowable-engine",
-                "stars": 9477
+                "stars": 9480
               }
             },
             {
@@ -2972,10 +2972,10 @@
                 "archived": false,
                 "id": 82700090,
                 "language": "Go",
-                "last_commit": "2026-08-19T21:03:53Z",
+                "last_commit": "2026-08-21T03:46:07Z",
                 "owner": "cadence-workflow",
                 "repo": "cadence",
-                "stars": 9407
+                "stars": 9408
               }
             },
             {
@@ -2987,10 +2987,10 @@
                 "archived": false,
                 "id": 151148482,
                 "language": "C#",
-                "last_commit": "2026-08-19T23:39:40Z",
+                "last_commit": "2026-08-21T01:08:11Z",
                 "owner": "elsa-workflows",
                 "repo": "elsa-core",
-                "stars": 7862
+                "stars": 7864
               }
             },
             {
@@ -3017,10 +3017,10 @@
                 "archived": false,
                 "id": 374763231,
                 "language": "Go",
-                "last_commit": "2026-08-20T09:28:53Z",
+                "last_commit": "2026-08-21T14:17:02Z",
                 "owner": "inngest",
                 "repo": "inngest",
-                "stars": 5748
+                "stars": 5752
               }
             },
             {
@@ -3035,22 +3035,22 @@
                 "last_commit": "2024-07-03T06:07:59Z",
                 "owner": "azkaban",
                 "repo": "azkaban",
-                "stars": 4506
+                "stars": 4508
               }
             },
             {
               "node_type": "item",
-              "title": "Restate (⭐4.2k)",
+              "title": "Restate (⭐4.3k)",
               "description": "Durable execution engine for building resilient workflows, event-driven services, and stateful handlers as plain code.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 585196214,
                 "language": "Rust",
-                "last_commit": "2026-08-20T14:35:00Z",
+                "last_commit": "2026-08-21T11:58:35Z",
                 "owner": "restatedev",
                 "repo": "restate",
-                "stars": 4314
+                "stars": 4320
               }
             },
             {
@@ -3062,7 +3062,7 @@
                 "archived": false,
                 "id": 54298946,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:43:14Z",
+                "last_commit": "2026-08-21T14:47:22Z",
                 "owner": "camunda",
                 "repo": "camunda",
                 "stars": 4254
@@ -3080,27 +3080,27 @@
                 "last_commit": "2026-07-01T12:55:35Z",
                 "owner": "kiegroup",
                 "repo": "jbpm",
-                "stars": 1739
+                "stars": 1737
               }
             },
             {
               "node_type": "item",
-              "title": "LittleHorse (⭐392)",
+              "title": "LittleHorse (⭐395)",
               "description": "High-throughput, low-latency microservice orchestration engine built on Kafka Streams, with SDKs in multiple languages.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 668392754,
                 "language": "Java",
-                "last_commit": "2026-08-19T23:35:53Z",
+                "last_commit": "2026-08-20T20:48:33Z",
                 "owner": "littlehorse-enterprises",
                 "repo": "littlehorse",
-                "stars": 394
+                "stars": 395
               }
             },
             {
               "node_type": "item",
-              "title": "Bonita (⭐174)",
+              "title": "Bonita (⭐176)",
               "description": "Open-source BPMN engine with a designer interface to build and automate complex business processes.",
               "children": [],
               "repo_info": {
@@ -3138,7 +3138,7 @@
                 "last_commit": "2023-04-17T05:29:49Z",
                 "owner": "chanakaudaya",
                 "repo": "solution-architecture-patterns",
-                "stars": 3460
+                "stars": 3461
               }
             },
             {
@@ -3153,7 +3153,7 @@
                 "last_commit": "2023-04-17T05:29:49Z",
                 "owner": "chanakaudaya",
                 "repo": "solution-architecture-patterns",
-                "stars": 3460
+                "stars": 3461
               }
             },
             {
@@ -3168,7 +3168,7 @@
                 "last_commit": "2023-04-17T05:29:49Z",
                 "owner": "chanakaudaya",
                 "repo": "solution-architecture-patterns",
-                "stars": 3460
+                "stars": 3461
               }
             },
             {
@@ -3183,7 +3183,7 @@
                 "last_commit": "2023-04-17T05:29:49Z",
                 "owner": "chanakaudaya",
                 "repo": "solution-architecture-patterns",
-                "stars": 3460
+                "stars": 3461
               }
             },
             {
@@ -3198,7 +3198,7 @@
                 "last_commit": "2023-04-17T05:29:49Z",
                 "owner": "chanakaudaya",
                 "repo": "solution-architecture-patterns",
-                "stars": 3460
+                "stars": 3461
               }
             }
           ],
@@ -3223,10 +3223,10 @@
                 "archived": false,
                 "id": 17372733,
                 "language": "Markdown",
-                "last_commit": "2026-08-18T16:39:24Z",
+                "last_commit": "2026-08-21T11:51:17Z",
                 "owner": "OAI",
                 "repo": "OpenAPI-Specification",
-                "stars": 31163
+                "stars": 31165
               }
             },
             {
@@ -3241,7 +3241,7 @@
                 "last_commit": "2026-08-18T20:49:40Z",
                 "owner": "graphql",
                 "repo": "graphql-spec",
-                "stars": 14583
+                "stars": 14584
               }
             },
             {
@@ -3298,10 +3298,10 @@
                 "archived": false,
                 "id": 381857226,
                 "language": "Java",
-                "last_commit": "2026-08-19T21:25:02Z",
+                "last_commit": "2026-08-21T08:17:24Z",
                 "owner": "microsoft",
                 "repo": "typespec",
-                "stars": 5823
+                "stars": 5825
               }
             },
             {
@@ -3316,7 +3316,7 @@
                 "last_commit": "2026-08-11T17:58:42Z",
                 "owner": "asyncapi",
                 "repo": "spec",
-                "stars": 5282
+                "stars": 5285
               }
             },
             {
@@ -3343,25 +3343,25 @@
                 "archived": false,
                 "id": 683760582,
                 "language": "Java",
-                "last_commit": "2026-08-18T01:09:09Z",
+                "last_commit": "2026-08-20T19:24:47Z",
                 "owner": "standard-webhooks",
                 "repo": "standard-webhooks",
-                "stars": 1730
+                "stars": 1731
               }
             },
             {
               "node_type": "item",
-              "title": "Arazzo Specification (⭐459)",
+              "title": "Arazzo Specification (⭐464)",
               "description": "A standard, programming language-agnostic representation for describing sequences of API calls (workflows) and their dependencies.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 399888294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T07:13:09Z",
+                "last_commit": "2026-08-21T00:53:16Z",
                 "owner": "OAI",
                 "repo": "Arazzo-Specification",
-                "stars": 463
+                "stars": 465
               }
             }
           ],
@@ -3380,10 +3380,10 @@
                 "archived": false,
                 "id": 23357588,
                 "language": "C++",
-                "last_commit": "2026-08-20T14:29:31Z",
+                "last_commit": "2026-08-21T13:56:56Z",
                 "owner": "protocolbuffers",
                 "repo": "protobuf",
-                "stars": 71746
+                "stars": 71749
               }
             },
             {
@@ -3398,7 +3398,7 @@
                 "last_commit": "2026-08-11T19:49:45Z",
                 "owner": "google",
                 "repo": "flatbuffers",
-                "stars": 26357
+                "stars": 26379
               }
             },
             {
@@ -3410,10 +3410,10 @@
                 "archived": false,
                 "id": 51905353,
                 "language": "C++",
-                "last_commit": "2026-08-20T05:35:58Z",
+                "last_commit": "2026-08-21T12:18:33Z",
                 "owner": "apache",
                 "repo": "arrow",
-                "stars": 17037
+                "stars": 17039
               }
             },
             {
@@ -3428,7 +3428,7 @@
                 "last_commit": "2026-08-20T00:55:04Z",
                 "owner": "capnproto",
                 "repo": "capnproto",
-                "stars": 13163
+                "stars": 13164
               }
             },
             {
@@ -3463,17 +3463,17 @@
             },
             {
               "node_type": "item",
-              "title": "Apache Fory (⭐4.4k)",
+              "title": "Apache Fory (⭐4.5k)",
               "description": "Fast multi-language serialization framework that uses just-in-time compilation and zero-copy techniques, with a cache-friendly row format. Formerly named Apache Fury.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 633686625,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:25:50Z",
+                "last_commit": "2026-08-21T10:31:42Z",
                 "owner": "apache",
                 "repo": "fory",
-                "stars": 4504
+                "stars": 4507
               }
             },
             {
@@ -3493,7 +3493,7 @@
             },
             {
               "node_type": "item",
-              "title": "YAML (⭐497)",
+              "title": "YAML (⭐499)",
               "description": "A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.",
               "children": [],
               "repo_info": {
@@ -3503,7 +3503,7 @@
                 "last_commit": "2024-08-20T05:37:19Z",
                 "owner": "yaml",
                 "repo": "yaml-spec",
-                "stars": 499
+                "stars": 500
               }
             },
             {
@@ -3538,10 +3538,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:49:11.564Z",
+    "last_updated": "2026-08-21T14:48:12.664Z",
     "original_repository": "stn1slv/awesome-integration",
     "original_repository_id": 388887753,
-    "original_repository_sha": "3e9af2906065e62765742f4a07d7dbe09d1d4482",
+    "original_repository_sha": "2e9b01bf0fd8481697a23e1af74fbace5dfe33ac",
     "enhanced_repository": "enhansome/enhansome-integration",
     "enhanced_repository_description": null,
     "title": "Awesome Integration with stars"
